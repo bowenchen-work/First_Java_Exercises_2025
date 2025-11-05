@@ -1,3 +1,5 @@
+package PrimerContactoJava;
+
 import java.util.Scanner;
 
 public class PruebasMath {
