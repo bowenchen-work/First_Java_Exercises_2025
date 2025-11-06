@@ -14,6 +14,22 @@ public class EjercicioProfe1 {
         System.out.println("Cuántos amigos tines? Introduce en número de amigos que tienes:");
         int numAmigosUsu = teclado.nextInt();
 
+        System.out.println("Gracias, ahora de uno en uno te voy preguntando el nombre y la edad de cada amigo.");
+
+        /*
+        do {
+            for (int contAmigo = 1; contAmigo <= numAmigosUsu; contAmigo++) {
+
+                System.out.println("Dime nombre del amigo por favor:");
+                String nombAmigo = teclado.nextLine();
+                nombAmigo[numAmigosUsu] = nombAmigo;
+
+                System.out.println("Ahora dime su edad:");
+                int edadAmigo = teclado.nextInt();
+                edadAmigo[numAmigosUsu] = edadAmigo;
+            }
+        }        *
+        * */
 
     }
 }
